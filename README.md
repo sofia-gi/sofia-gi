@@ -2,12 +2,10 @@
 
 ### Hi there 👋
 
+###  ⚡Skilll⚡
+![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-0696D7?style=plastic&logo=Python&logoColor=white) ![JAVA](https://img.shields.io/badge/JAVA-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-007396?style=plastic&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-F7DF1E?style=plastic&logo=javascript&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-FCC624?style=plastic&logo=Linux&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-232F3E?style=plastic&logo=Amazon&logoColor=white)  
 <!--
 **sofia-gi/sofia-gi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-### :cyclone: Languages
-![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=Python&logoColor=white) 
-![JAVA](https://img.shields.io/badge/JAVA%20&%20ANDROID-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3DDC84?style=plastic&logo=java&logoColor=white)  
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
 
